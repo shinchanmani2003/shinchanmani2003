@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** with a degree i
 - **Degree**: B.E. Computer Science and Engineering  
 - **Skills**: HTML, CSS, JavaScript, React, Node.js, Git, and more  
 - **Internship**: Web Development Intern at **E-Soft**  
-- **Project**: *"Identifying Dark Patterns in E-Commerce Websites"* — A research-driven project analyzing and detecting misleading design patterns in online shopping platforms to improve user transparency and ethics.
 
 ## Projects
 
